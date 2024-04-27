@@ -1,0 +1,201 @@
+{
+  "main": {
+    "id": "90ab11f738c48725",
+    "type": "split",
+    "children": [
+      {
+        "id": "3c947e13f035c5fa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4919b3a4398f3565",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "经验合集/鱼皮学习成长经验.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "ceac7159a6e04822",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "源码分析/Redux.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a51a379f9a1c6a5a",
+    "type": "split",
+    "children": [
+      {
+        "id": "332b52c7dd3a8d87",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fe6704eedbb00f01",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabeticalReverse"
+              }
+            }
+          },
+          {
+            "id": "9199ce325227c807",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d9a74ae68e2d79c8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "69b296d25246dfb3",
+    "type": "split",
+    "children": [
+      {
+        "id": "11a0114152c18179",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e457c237ef0e94d3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "源码分析/Redux.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "54b735ecb6d2b011",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "源码分析/Redux.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "458f596f0f571c14",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d7644cab2fe8d60f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "源码分析/Redux.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "ceac7159a6e04822",
+  "lastOpenFiles": [
+    "目前欠缺的知识点.md",
+    "源码分析/Redux.md",
+    "学习笔记/Webpack/模块化的演进过程.md",
+    "经验合集/鱼皮学习成长经验.md",
+    "学习笔记/Webpack/webpack打包.md",
+    "工具合集/vscode.md",
+    "工具合集/utools.md",
+    "未命名",
+    "复盘总结/日报/2024-4-26.md",
+    "复盘总结/月报",
+    "复盘总结/日报",
+    "复盘总结",
+    "学习笔记/JS/手写题.md",
+    "知识碎片/compose函数实现.md",
+    "知识碎片/Glob路径匹配.md",
+    "知识碎片/vscode自定义snippet.md",
+    "学习笔记/JS/Generator.md",
+    "学习笔记/JS/作用域.md",
+    "学习笔记/计算机网络",
+    "学习笔记/计算机网络.md",
+    "学习笔记/JS/Promise.md",
+    "学习笔记/JS/JSON Api的实现.md",
+    "学习笔记/JS/跨域解决方案.md",
+    "学习笔记/JS/常见面试手写题.md",
+    "学习笔记/TS/浅析TS中的函数重载.md",
+    "学习笔记/TS/浅析TS中的类型声明来源.md",
+    "学习笔记/TS/浅析TS中的infer关键字.md",
+    "学习笔记/TS/浅析TS中的枚举.md",
+    "学习笔记/TS/浅析TS中的命名空间.md",
+    "学习笔记/Node/浅析package.json文件中常用字段.md",
+    "学习笔记/React/浅析React中的Fiber.md",
+    "工具合集",
+    "源码分析",
+    "经验合集",
+    "学习笔记/前端安全",
+    "学习笔记/Vite"
+  ]
+}
