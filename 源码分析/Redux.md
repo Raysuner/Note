@@ -1,15 +1,25 @@
-## Redux是什么
-Redux是一个全局状态管理库，能够帮助开发在编写应用时更加方便的在各个组件间共享状态值。
-
-Redux并不一定需要选用React来作为UI库，它可以和任意UI库来配合使用，甚至不需要任何UI库，直接在html中也是可行的。
+## 引言
+在现代前端开发中，随着应用的复杂度增加，组件的层级逐渐加深，组件间的状态共享变得愈发困难。为了解决这个问题，Redux应运而生。
 
 这篇文章会从概念出发，讲解Redux中各个概念的作用，并实现相关功能。
+## Redux是什么
+Redux是一个全局状态管理库，能够帮助开发在编写应用时更加方便的在各个组件间共享状态值。
+![redux.png](http:8.149.242.20:9000/storage/uploads/202505/25/redux-flow.png?PLuxeCUuNQ)
+Redux并不一定需要选用React来作为UI框架，只要能渲染页面来当做上面的view层能够即可，即使直接在html中也是可行的，
+## Redux相关概念
+### Store
+前面说到Redux是一个全局状态管理库，Store作为应用状态的集中存储仓库，那么就一定有一个变量来保存全局信息，一般情况下我们把这个状态变量称为State。应用内的状态信息都保存在State里面方便集式管理。
 
-## Redux的一些概念
-### State
-前面说到Redux是一个全局状态管理库，那么就一定有一个变量来保存存储到全局的信息，一般情况下我们把这个状态变量称为State。
+用代码的形式表现出来也非常简单
+```js
+const store = {
+  state: {
+    name: "状态存储器",
+    desc: "Store内专门存储应用内状态信息的容器"
+  }
+}
+```
 ### reducer
-
 ```jsx
 import { useState, createContext, useContext } from "react";
 

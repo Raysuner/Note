@@ -4,35 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "3c947e13f035c5fa",
+        "id": "8fa753df1785ad06",
         "type": "tabs",
         "children": [
           {
-            "id": "4919b3a4398f3565",
+            "id": "5cce029bf1cef646",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "经验合集/鱼皮学习成长经验.md",
-                "mode": "source",
+                "file": "学习笔记/前端/HTML/meta 标签中的 viewport.md",
+                "mode": "preview",
                 "source": true
-              }
-            }
-          },
-          {
-            "id": "ceac7159a6e04822",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "源码分析/Redux.md",
-                "mode": "source",
-                "source": true
-              }
+              },
+              "icon": "lucide-file",
+              "title": "meta 标签中的 viewport"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -51,8 +40,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabeticalReverse"
-              }
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
             }
           },
           {
@@ -67,7 +59,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
             }
           },
           {
@@ -75,14 +69,16 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 322.5
   },
   "right": {
     "id": "69b296d25246dfb3",
@@ -98,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "源码分析/Redux.md",
+                "file": "学习笔记/前端/HTML/HTML5 的语义化.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +102,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "HTML5 的语义化 的反向链接列表"
             }
           },
           {
@@ -115,10 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "源码分析/Redux.md",
+                "file": "学习笔记/前端/HTML/HTML5 的语义化.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "HTML5 的语义化 的出链列表"
             }
           },
           {
@@ -129,7 +129,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
             }
           },
           {
@@ -138,16 +140,29 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "源码分析/Redux.md"
-              }
+                "file": "学习笔记/前端/Webpack/Webpack如何加载图片资源？.md"
+              },
+              "icon": "lucide-list",
+              "title": "Webpack如何加载图片资源？ 的大纲"
+            }
+          },
+          {
+            "id": "68ce73d6087dfee7",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 537.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -156,46 +171,59 @@
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false
+      "command-palette:打开命令面板": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "custom-image-auto-uploader:Custom Image Auto Uploader / 自定义图片上传云端保存插件": false
     }
   },
-  "active": "ceac7159a6e04822",
+  "active": "5cce029bf1cef646",
   "lastOpenFiles": [
-    "目前欠缺的知识点.md",
-    "源码分析/Redux.md",
-    "学习笔记/Webpack/模块化的演进过程.md",
-    "经验合集/鱼皮学习成长经验.md",
-    "学习笔记/Webpack/webpack打包.md",
-    "工具合集/vscode.md",
-    "工具合集/utools.md",
-    "未命名",
-    "复盘总结/日报/2024-4-26.md",
+    "Pasted image 20250614134312.png",
+    "学习笔记/前端/HTML/preconnect、prefetch、preload.md",
+    "学习笔记/前端/HTML/meta 标签中的 viewport.md",
+    "Pasted image 20250614133522.png",
+    "4e35d3bcf4fa1ca779f03d47ebe75ea9.png",
+    "学习笔记/前端/HTML/浏览器对 HTML 文档的预解析.md",
+    "学习笔记/前端/HTML/HTML5 的语义化.md",
+    "学习笔记/前端/HTML/HTML5 离线存储.md",
+    "学习笔记/前端/前端基础/像素与分辨率概念.md",
+    "学习笔记/前端/React/浅析React中事件机制.md",
+    "学习笔记/前端/React/浅析React中的Ref.md",
+    "学习笔记/前端/React/浅析React中的Hook.md",
+    "学习笔记/前端/React/浅析React中的Fiber.md",
+    "学习笔记/前端/React/浅析React中的diff算法.md",
+    "学习笔记/前端/React/浅析React中的虚拟DOM.md",
+    "学习笔记/前端/前端工程化/Webpack/Webpack的构建流程.md",
+    "学习笔记/前端/前端工程化/Webpack/Webpack 如何使用 Tree Shaking？.md",
+    "学习笔记/前端/前端工程化/Webpack/Webpack的诞生与问题解决之道.md",
+    "学习笔记/前端/前端工程化/Webpack/Webpack Loader.md",
+    "学习笔记/前端/JS/Promise.md",
+    "学习笔记/前端/JS/本地存储方式.md",
+    "学习笔记/前端/CSS/CSS变量的理解.md",
+    "学习笔记/前端/HTML/<!DOCTYPE html> 标签有什么用？.md",
+    "学习笔记/前端/前端基础/base64编码.md",
+    "学习笔记/操作系统/Linux/使用ssh登录云服务器.md",
+    "学习笔记/前端/JS/跨域解决方案.md",
+    "学习笔记/前端/JS/不同页面之间的通信方式.md",
+    "1698762506355-7d81b243-ff7b-49b3-8cbd-1396477ea764.webp",
+    "1698934102379-00934bce-09a8-4ba0-bb3f-a42d417d7bcb.png",
+    "1698935176325-742d880d-f92f-4af1-a6c2-a399fa514fae.png",
+    "1698762966728-ac9782f5-efac-43b4-808d-f304c177c3a5.png",
+    "1698762506355-7d81b243-ff7b-49b3-8cbd-1396477ea764.png",
+    "1648908366965-6882457b-473e-4c85-b1a4-b3d3e5770e06.jpg",
+    "学习笔记/前端/CSS/Less 基础用法.md",
+    "abanner02.jpg",
+    "Pasted image 20250611222233.png",
+    "学习笔记/操作系统/Linux",
+    "学习笔记/操作系统",
+    "学习笔记/后端",
+    "学习笔记/前端",
+    "学习笔记/后端/JAVA",
+    "学习笔记/前端",
+    "学习笔记/Webpack/Webpack知识树.canvas",
+    "学习方法",
+    "ls",
     "复盘总结/月报",
-    "复盘总结/日报",
-    "复盘总结",
-    "学习笔记/JS/手写题.md",
-    "知识碎片/compose函数实现.md",
-    "知识碎片/Glob路径匹配.md",
-    "知识碎片/vscode自定义snippet.md",
-    "学习笔记/JS/Generator.md",
-    "学习笔记/JS/作用域.md",
-    "学习笔记/计算机网络",
-    "学习笔记/计算机网络.md",
-    "学习笔记/JS/Promise.md",
-    "学习笔记/JS/JSON Api的实现.md",
-    "学习笔记/JS/跨域解决方案.md",
-    "学习笔记/JS/常见面试手写题.md",
-    "学习笔记/TS/浅析TS中的函数重载.md",
-    "学习笔记/TS/浅析TS中的类型声明来源.md",
-    "学习笔记/TS/浅析TS中的infer关键字.md",
-    "学习笔记/TS/浅析TS中的枚举.md",
-    "学习笔记/TS/浅析TS中的命名空间.md",
-    "学习笔记/Node/浅析package.json文件中常用字段.md",
-    "学习笔记/React/浅析React中的Fiber.md",
-    "工具合集",
-    "源码分析",
-    "经验合集",
-    "学习笔记/前端安全",
-    "学习笔记/Vite"
+    "复盘总结/日报"
   ]
 }

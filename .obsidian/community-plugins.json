@@ -1,3 +1,9 @@
 [
-  "oz-image-plugin"
+  "oz-image-plugin",
+  "table-editor-obsidian",
+  "obsidian-linter",
+  "manual-sorting",
+  "easy-typing-obsidian",
+  "custom-image-auto-uploader",
+  "obsidian-image-toolkit"
 ]
